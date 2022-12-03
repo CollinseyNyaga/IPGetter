@@ -15,7 +15,7 @@ IPGetter.exe <hostname #1> <hostname #2> <hostname #3> <hostname #....>
 
 <h3> Linux </h3>
 I recommend the linux mono sdk to run the project build .
-Get mono sdk from <a href="https://www.mono-project.com/" target="blank">mono-project.com</a>
+Get mono sdk from <a href="https://www.mono-project.com/">mono-project.com</a>
 Use mono command to run the already compiled IPGetter.exe assembly in the root of the project.
 <br>
 
