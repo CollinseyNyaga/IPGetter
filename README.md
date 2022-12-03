@@ -1,5 +1,5 @@
 
-![screenshot of the tool usage](screenshots/screenshot1)
+![screenshot of the tool usage](screenshots/screenshot1.png)
 
 # WHAT
 cli tool to get ip address(es) of provided hostname(s).
@@ -17,18 +17,20 @@ IPGetter.exe <hostname #1> <hostname #2> <hostname #3> <hostname #....>
 I recommend the linux mono sdk to run the project build .
 Get mono sdk from <a href="mono-project.com">mono-project.com</a>
 Use mono command to run the already compiled IPGetter.exe assembly in the root of the project.
+<br>
 
 <code>
 mono IPGetter.exe <hostname #1> <hostname #2> <hostname #3> <hostname #....>
 </code>
 
+<br>
 
 Where hostname is a valid Dns domain name that points to a valid ip address.
 
 # HOW TO COMPILE 
 Assuming you have mono sdk installed , use mcs command in the cli to compile the project.
 The only file to compile is IPGetter.cs file.
-
+<br>
 <code>
 mcs IPGetter.cs <name of the output assembly>
 </code>
