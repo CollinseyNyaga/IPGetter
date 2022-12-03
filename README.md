@@ -1,5 +1,5 @@
 
-![screenshot of the tool usage](./screenshots/screenshot1)
+![screenshot of the tool usage](screenshots/screenshot1)
 
 # WHAT
 cli tool to get ip address(es) of provided hostname(s).
