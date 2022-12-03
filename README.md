@@ -10,7 +10,7 @@ To check ip addresses of a given hostname use the tool in the following syntax :
 
 <h3> Windows </h3>
 <code>
-IPGetter.exe <hostname #1> <hostname #2> <hostname #3> <hostname #....>
+IPGetter.exe [hostname #1] [hostname #2] [hostname #3] [hostname #....]
 </code>
 
 <h3> Linux </h3>
@@ -20,7 +20,7 @@ Use mono command to run the already compiled IPGetter.exe assembly in the root o
 <br>
 
 <code>
-mono IPGetter.exe <hostname #1> <hostname #2> <hostname #3> <hostname #....>
+mono IPGetter.exe [hostname #1] [hostname #2] [hostname #3] [hostname #....]
 </code>
 
 <br>
